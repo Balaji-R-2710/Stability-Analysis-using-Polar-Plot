@@ -40,7 +40,7 @@ end
 
 ## Output:
 
-<img width="693" height="625" alt="image" src="https://github.com/user-attachments/assets/33402d2a-3723-46b7-93c1-ef21a0a8c9e2" />
+<img width="853" height="643" alt="image" src="https://github.com/user-attachments/assets/9812057a-2798-4b98-98ac-a95fda6aa52c" />
 
 
 
